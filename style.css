@@ -44,3 +44,62 @@ span{
     background-image: linear-gradient(orange,tomato);
     border-radius: 5px;
 }
+.donate-today{
+ background-color: white;
+ text-align: center;
+}
+.donate{
+    margin-top: 100px;
+    text-align: center;
+}
+.donat-discript{
+    text-align: center;
+}
+.donate-amount{
+    display:flex;
+    margin-left: 350px;  
+}
+input[type=text]{
+    width: 100px;
+    padding: 35px 25px;
+    box-sizing: border-box;
+   
+    border: 0px solid grey;
+    border-radius: 4px;
+    background-color:#F2F3F4;
+    margin: 10px;
+}
+.other-amount{
+    position: relative;
+    margin-left: 150px;
+}
+.other-amount #other-amount{
+    border: none white;
+    padding: 15px 5px;
+    border-radius: 0px;
+    box-sizing: unset;
+    border-bottom: 1px solid grey;
+    width: 500px;
+    margin-left: -10px;
+    text-align: center;
+    background-color: white;
+    color:grey;
+
+}
+#click-process{
+    margin-top: 500px;
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    border-radius: 5px;
+    padding: 10px 40px;
+    margin-left: 100px;
+}
+.donate-plans{
+    margin-top: 80px;
+}
+.plan-content-one{
+margin-left: 600px;
+}
+
+
+  
