@@ -103,6 +103,21 @@ margin-left: 600px;
 .plan-content-two{
     margin-left: 550px;
 }
-
-
+.food{
+    background-color: azure;
+    width:200px;
+    border-radius: 5px;
+    
+}
+.shelter{
+    background-color: darksalmon;
+    width:200px;
+    border-radius: 5px;
+    
+}
+.Education{
+    background-color: darkkhaki;
+    width:200px;
+    border-radius: 5px;
+}
   
