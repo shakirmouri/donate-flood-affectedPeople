@@ -26,7 +26,7 @@ h1{
     
 }
 span{
-    margin-left: 120px;
+    margin-left: 90px;
 }
 .header-content-two{
     margin-top: 200px;
@@ -99,6 +99,9 @@ input[type=text]{
 }
 .plan-content-one{
 margin-left: 600px;
+}
+.plan-content-two{
+    margin-left: 550px;
 }
 
 
