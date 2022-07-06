@@ -197,4 +197,35 @@ small{
     margin-top: 90px;
     margin-left: 540px;
 }
+#twohundred{
+    border: 1px solid tomato;
+    background-color: rgb(239, 199, 192);
+    
+}
+#twohundred:hover{
+    background-color:tomato;
 
+}
+.half-width{
+    width: 45%;
+    padding: 5%;
+}
+.half-width img{
+    width: 100%;
+}
+.flexbox-container-two{
+    display: flex;
+}
+.half-width p{
+    margin-top: 0px;
+    text-align: justify;
+}
+.media{
+    color: aqua;
+    text-align: center;
+}
+.border-box{
+   margin: 5px; 
+   border: 2px solid green;
+   border-radius: 4px;
+}
